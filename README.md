@@ -3,7 +3,7 @@
 
 <img align="right" alt="PIC" height="250px" src="https://media-exp1.licdn.com/dms/image/C5616AQGMKNNvpayyvQ/profile-displaybackgroundimage-shrink_350_1400/0/1610185991992?e=1615420800&v=beta&t=b4gRuZXs0E5u1Knm7ecaJ-ej-U9jKnokV_Y_cPugl7Q" />
 
-<hr>
+<hr><hr>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me: </h3>
   
@@ -52,11 +52,11 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px">
   </a>
   &nbsp;
-  <a href="">
+  <a href="https://github.com/koushikd9">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30px">
   </a>
     &nbsp;
-  <a href="">
+  <a href="www.linkedin.com/in/koushid1590">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px">
   </a>
 </p>
