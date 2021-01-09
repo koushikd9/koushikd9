@@ -56,8 +56,6 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30px">
   </a>
     &nbsp;
-  <a href="www.linkedin.com/in/koushikd9">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px">
-  </a>
+  
 </p>
 </h1>
