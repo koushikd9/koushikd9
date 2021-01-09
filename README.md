@@ -48,7 +48,7 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-   <a href="mailto:koushik1590@gmail.com">
+   <a href="mailto:koushikd1590@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px">
   </a>
   &nbsp;
@@ -56,7 +56,7 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30px">
   </a>
     &nbsp;
-  <a href="www.linkedin.com/in/koushid1590">
+  <a href="www.linkedin.com/in/koushikd9">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px">
   </a>
 </p>
