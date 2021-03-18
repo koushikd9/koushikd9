@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Koushik👋 </h1> 
-<h3 align="center">🚀 CS | MERN Stack | Open Source ♥ | Machine Learning | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 CS | Django Stack | Open Source ♥ | Machine Learning | Competitive Programmer  🚀</h3>
 
 <img align="right" alt="PIC" height="250px" src="https://media-exp1.licdn.com/dms/image/C5616AQGMKNNvpayyvQ/profile-displaybackgroundimage-shrink_350_1400/0/1610185991992?e=1615420800&v=beta&t=b4gRuZXs0E5u1Knm7ecaJ-ej-U9jKnokV_Y_cPugl7Q" />
 
@@ -22,8 +22,6 @@
  ### Tech & Tools Preference
  
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
