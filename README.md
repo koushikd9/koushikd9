@@ -2,8 +2,7 @@
 <h3 align="center">🚀 CS | Django Stack | Open Source ♥ | Machine Learning | Competitive Programmer  🚀</h3>
 
 <hr>
-<img align="right" alt="PIC" height="250px" src="https://www.canva.com/design/DAESqMha3iQ/azr7Gaygcal_n1ZUamakmQ/view" />
-<hr>
+
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me: </h3>
   
