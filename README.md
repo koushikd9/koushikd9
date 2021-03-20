@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Koushik👋 </h1> 
 <h3 align="center">🚀 CS | Django Stack | Open Source ♥ | Machine Learning | Competitive Programmer  🚀</h3>
 
-<img align="right" alt="PIC" height="250px" src="https://media-exp1.licdn.com/dms/image/C5616AQGMKNNvpayyvQ/profile-displaybackgroundimage-shrink_350_1400/0/1610185991992?e=1615420800&v=beta&t=b4gRuZXs0E5u1Knm7ecaJ-ej-U9jKnokV_Y_cPugl7Q" />
+<img align="right" alt="PIC" height="250px" src="https://www.canva.com/design/DAESqMha3iQ/azr7Gaygcal_n1ZUamakmQ/view" />
 
 <hr><hr>
 <div align="left"> 
