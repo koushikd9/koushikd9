@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Koushik👋 </h1> 
-<h3 align="center">🚀 CS | Django Stack | Open Source ♥ | Machine Learning | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 CS | Django Stack 🚀</h3>
 
 <hr>
 
