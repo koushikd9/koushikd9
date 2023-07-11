@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Koushik👋 </h1> 
-<h3 align="center">🚀 CS | Django Stack 🚀</h3>
+<h3 align="center">🚀 CS | Python Developer 🚀</h3>
 
 <hr>
 
@@ -8,10 +8,9 @@
   
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Backend Development projects.
+  - 🎓 &nbsp; Wroking as a Python Developer.
+  - 💼 &nbsp; Currently working on Backend Development projects.
  
-  ![Profile views](https://gpvc.arturio.dev/koushikd9)  <img src="https://img.shields.io/github/followers/koushikd9?label=Follow" style=" float:left, margin-right:10px" />
 </div> 
 
  <hr>
